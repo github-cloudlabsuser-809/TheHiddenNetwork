@@ -1,0 +1,243 @@
+PS C:\Users\azureuser\Desktop\OpenAIRepo> & c:/Users/azureuser/Desktop/OpenAIRepo/udemyKuljotOpenAi/venv/python.exe c:/Users/azureuser/Desktop/OpenAIRepo/udemyKuljotOpenAi/lab12_vectorUsingAiSearch/run.py
+enter your queryWhich states have 4G?
+n:190
+content_length1587230
+rcount8353
+summaryBased on the provided supplement content, it is not possible to determine which states have 4G coverage as the data is limited to specific locations within Maharashtra and Andhra Pradesh.Based on the given data, it is not possible to determine which states have 4G network coverage. The data only provides information about the location, network provider, and download/upload speed of mobile data in different regions but does not specify which states have 4G coverage.Based on the supplement content provided, the states that have 4G are:
+1. Assam
+2. Tamil Nadu
+3. Himachal Pradesh
+4. UP West
+5. Gujarat
+6. Haryana
+7. Madhya Pradesh
+8. Andhra Pradesh
+9. Delhi
+10. Punjab
+11. Bihar
+12. Orissa
+13. West Bengal
+14. UP East
+15. Kerala
+16. KarnatakaBased on the given supplement content, it is not possible to determine which states have 4G coverage. The location mentioned in the content is UP East.Based on the given supplement content, it is not possible to determine which states in India have 4G coverage. The data provided is specific to the UP East region and does not provide information on other states.Based on the provided supplement content, it is not possible to determine which states have 4G network coverage. The content only includes information on the network providers, network types (3G/4G), and upload/download speeds in different regions of India.Based on the given supplement content, it is not possible to determine which states have 4G. However, it does mention that JIO provides 4G service in Karnataka, Punjab, UP East, Maharashtra, Assam, Haryana, Andhra Pradesh, Bihar, Madhya Pradesh, Kerala, and Tamil Nadu, while Airtel provides 4G service in Kerala, Maharashtra, Tamil Nadu, Andhra Pradesh, and UP East. Vodafone provides 3G and 4G services in some areas.Based on the supplement content provided, it is not possible to determine which states have 4G coverage. The data provided only includes information on the download and upload speeds of various networks in different regions of India, but it does not provide information on which states have 4G coverage and which do not.Based on the given data, 4G is available in the following states:
+- Tamil Nadu
+- Mumbai
+- Maharashtra
+- Madhya Pradesh
+- Uttar Pradesh West
+- Himachal Pradesh
+- West Bengal
+- Gujarat
+- Andhra Pradesh (partial data only)
+Note: There may be other states with 4G coverage but the provided data is limited and does not show the whole country.Based on the supplement content provided, it is not possible to determine which states have 4G network. The data provided only includes information on the download and upload speeds of 4G networks for various telecom service providers in different locations.Based on the given supplement content, it is not possible to determine which states have 4G. The content only provides information about network providers, type of network (3G, 4G), and their respective upload and download speeds in different regions of India.Based on the provided supplement content, it is not possible to determine which states have 4G. However, it can be seen that Airtel, Jio, Vodafone, and Idea provide 4G services in various cities of India such as Punjab, Maharashtra, Andhra Pradesh, Gujarat, Rajasthan, Haryana, Mumbai, and Kerala.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The content mentions various locations across different states in India where JIO, AIRTEL, VODAFONE, and CELLONE have 4G or 3G coverage, but this information is not sufficient to provide a list of states with 4G coverage.Based on the supplement content provided, it is not possible to provide a comprehensive list of states that have 4G coverage. However, some of the states where 4G coverage is available according to the data provided are Himachal Pradesh, Andhra Pradesh, Karnataka, Assam, UP West, Gujarat, Chennai, Maharashtra, Tamil Nadu, West Bengal, Punjab, Delhi, Kerala, Rajasthan, Madhya Pradesh, Jammu & Kashmir, and North East. It is important to note that this data is not exhaustive and may not be up to date. It is recommended to check with the specific service providers for the latest coverage information.Based on the supplement content provided, it is not possible to determine which states have 4G. The data only provides information on the location and network details of various 4G and 3G connections across different regions in India.Based on the supplement content provided, the states that have 4G are Punjab, UP West, Andhra Pradesh, Tamil Nadu, Mumbai, Madhya Pradesh, Kerala, Karnataka, West Bengal, Assam, Jammu & Kashmir, and Maharashtra.Based on the provided supplement content, it is not possible to determine which states have 4G. The content only includes data from different locations within various states on the speed and performance of different mobile networks.Based on the given supplement content, it is not possible to provide a definitive list of states with 4G coverage. However, the content includes data from Andhra Pradesh, Orissa, Delhi, Maharashtra, UP East, UP West, Karnataka, Madhya Pradesh, and Gujarat, indicating that these states may have some areas with 4G coverage.Based on the provided supplement content, it is not possible to determine which states have 4G. The content only provides data on internet speeds for various telecom providers in different regions of India.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The data only includes information on the speed and location of 4G and 3G networks for Airtel and Jio in various cities across India.Based on the provided supplement content, it is not possible to determine which states have 4G. The data only includes network speed test results in Mumbai.Based on the provided content, it is not possible to determine which states have 4G. The content only provides data on upload speeds for Airtel's 3G and 4G services in Mumbai.Based on the supplement content provided, it is not possible to determine which states have 4G coverage. The available data only includes information about the speed and quality of 4G and 3G networks in different locations across India.Based on the supplement content provided to me, I am unable to give a definitive answer on which states have 4G. However, it seems that JIO and Airtel are the major providers of 4G services in various states such as UP East, Gujarat, Haryana, Delhi, Rajasthan, Bihar, Orissa, Andhra Pradesh, Chennai, and Maharashtra.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The supplement content only provides information on the download and upload speeds of 4G networks in some areas of Rajasthan, Maharashtra, UP West, Andhra Pradesh, Haryana, Gujarat, Delhi, and Madhya Pradesh.Based on the provided supplement content, the following states have 4G coverage:     
+
+1. Karnataka
+2. Gujarat
+3. UP West
+4. Assam
+5. Orissa
+6. Andhra Pradesh
+7. Delhi
+8. Haryana
+9. Tamil Nadu
+10. Kolkata
+
+Note: This list is not exhaustive and may not be up to date.Based on the provided content, it is not possible to determine which states have 4G. However, the information does include 4G network data from various locations in India.Based on the given supplement content, it is not possible to determine which states have 4G coverage. The data only includes information on the speed and location of internet services provided by JIO, VODAFONE, AIRTEL, and IDEA in various parts of India.Based on the supplement content provided, the following states have 4G coverage:
+- Maharashtra
+- Bihar
+- Delhi
+- Karnataka
+- Gujarat
+- Kerala
+- West Bengal
+- UP West
+- Andhra Pradesh
+- Madhya Pradesh
+- Tamil Nadu
+- Haryana
+- Himachal Pradesh
+- Mumbai
+
+Note: The coverage may not be available in all areas of the state and it is recommended to check with the service provider for more accurate information.Based on the supplement content provided, it is not possible to determine which states in India have 4G coverage. The data contains information on 4G coverage in various parts of India, but it is not organized by state.Based on the provided supplement content, it is not possible to determine which states have 4G as the data provided is not limited to a specific set of states but covers various regions throughout India.Based on the provided supplement content, it is not possible to determine which states have 4G coverage as the data includes various locations across different states in India.Based on the supplement content provided, it is not possible to determine which states have 4G coverage. The content only includes network performance data for various locations across India, but no information about the overall availability of 4G in different states.Based on the provided data, it is not possible to determine which states have 4G coverage. The location data provided only shows the coordinates of the network towers and their corresponding upload and download speeds for different service providers.Based on the supplement content provided, it is difficult to determine which states have 4G as the data includes multiple states and some entries do not specify the state at all.Based on the supplement content provided, it is not possible to determine which states have 4G as it includes data from multiple states and only mentions the location as a city or region within the state.Based on the given supplement content, it is not possible to determine which states have 4G coverage. However, all the locations mentioned in the content are in Maharashtra state of India.Based on the provided supplement content, it is not possible to accurately determine which states have 4G coverage. The content includes data for multiple states and regions, but it does not provide a comprehensive list of areas with 4G coverage.Based on the provided supplement content, it is not possible to determine which states have 4G. The data only shows the location, network provider, and speed of the internet connection in various regions.Based on the supplement content provided, it is not possible to determine which states have 4G coverage. However, there are locations in Andhra Pradesh, Maharashtra, Rajasthan, Uttar Pradesh West, Uttar Pradesh East, Tamil Nadu, Gujarat, Orissa, Himachal Pradesh, Mumbai, Karnataka, Bihar, Jammu & Kashmir, Punjab, and West Bengal where JIO, Airtel, and Vodafone provide 4G or 3G coverage for download and upload speeds.Based on the given supplement content, it is not possible to provide a definitive answer to which states have 4G. However, the following states have been mentioned in the content: West Bengal, Maharashtra, Kolkata, Tamil Nadu, Andhra Pradesh, UP West, Kerala, Karnataka, Madhya Pradesh, Rajasthan, Delhi, Gujarat, Punjab, Assam, UP East.Based on the provided data, the following states have 4G coverage:
+- Rajasthan
+- Kerala
+- Andhra Pradesh
+- Gujarat
+- Delhi
+- UP East
+- Tamil Nadu
+- Haryana
+- Karnataka
+- UP West
+- Madhya Pradesh
+- West BengalBased on the given supplement content, it is not possible to determine which states have 4G. However, it provides information on 4G download and upload speed, location, and service providers in different regions of India.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The content only includes information about the location, network provider, and type of connection (download or upload) for various areas in different states of India.Based on the information provided in the supplement content, it is difficult to determine which states have 4G. However, there are locations in various states such as Delhi, Orissa, Gujarat, Tamil Nadu, West Bengal, Maharashtra, Assam, Haryana, Uttar Pradesh, Kerala, Madhya Pradesh, Rajasthan, and Himachal Pradesh where Jio, Vodafone, and Airtel have 4G services available.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. However, the data shows 4G coverage for various locations in Haryana, UP East, Punjab, Mumbai, Delhi, North East, Tamil Nadu, Gujarat, Karnataka, Orissa, and Maharashtra.Based on the provided supplement content, the following states have 4G:
+- UP East
+- Madhya Pradesh
+- Tamil Nadu
+- Maharashtra
+- Bihar
+- UP West
+- Haryana
+- Kerala
+- Punjab
+- Kolkata
+- Delhi
+- Orissa
+- Karnataka
+- Andhra Pradesh
+- West BengalBased on the provided supplement content, it is not possible to determine which states have 4G. The data only includes information on the network type, upload/download speeds, and location for various telecom providers in different regions.Based on the given supplement content, it is not possible to determine which states have 4G as the data provided only includes information on various speed tests conducted in different regions of India by different mobile network providers.Based on the supplement content provided, it is not possible to determine which states have 4G. The data only provides information on the download and upload speeds of various mobile network operators in different regions of India.Based on the supplement content provided to me, the following states have 4G coverage:
+
+- Rajasthan
+- Andhra Pradesh
+- Punjab
+- Bihar
+- Kerala
+- West Bengal
+- Jammu & Kashmir
+- Gujarat
+- UP West
+- Kolkata
+- Mumbai
+- Delhi
+- Haryana
+- UP East
+- Madhya Pradesh
+- Tamil Nadu
+- Karnataka
+
+Please note that this information is based on the limited supplement content provided, and coverage may vary within each state.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The data only includes information on the network coverage and speed of various telecom operators like Airtel, Jio, Vodafone, and Idea in different locations.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The data only provides information on the speed and location of various network providers in different regions.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. However, there are multiple locations mentioned where JIO, AIRTEL, Idea, and Vodafone have 4G coverage for both download and upload speeds.Based on the provided supplement content, it is not possible to determine which states have 4G, as the data only provides information on the download and upload speed of various mobile networks in different regions of India.Based on the supplement content provided to me, it is not possible to determine which states have 4G. The data only contains information on JIO, AIRTEL, and VODAFONE 4G download and upload speeds in different regions across India.Based on the supplement content provided, it is not possible to determine which states have 4G. The data only includes information about network providers, network types (3G, 4G), and location coordinates in Maharashtra, Andhra Pradesh, Himachal Pradesh, Rajasthan, UP East, UP West, Madhya Pradesh, Punjab, Haryana, and Kolkata.Based on the provided supplement content, the following states have 4G coverage: Maharashtra, Madhya Pradesh, Bihar, UP West, Gujarat, Kerala, Rajasthan, Andhra Pradesh, Karnataka, Delhi, Assam, West Bengal, Orissa, Punjab, Tamil Nadu, Haryana, Mumbai, and UP East.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The data provided only includes information on the download and upload speeds of various telecom companies in different regions across India.Based on the supplement content provided, it is not possible to determine which states have 4G coverage. The information provided only includes data related to speed tests conducted by various mobile network providers in different locations across India.Based on the given supplement content, it is not possible to determine which states have 4G coverage. However, it is clear that JIO, AIRTEL, IDEA, and VODAFONE are some of the service providers offering 4G services in various regions of India.Based on the provided data, it is not possible to identify which states have 4G. The data only provides information on the speed and location of internet connectivity of certain mobile networks in different states of India.Based on the given supplement content, it is not possible to determine which states have 4G. The content only provides information on the speed and performance of different mobile network providers in various states, but does not specify which states have 4G coverage.Based on the provided supplement content, it is not possible to accurately determine which states have 4G network. The content only includes data on 3G and 4G network speeds for various locations across India, but does not provide information on the overall coverage of 4G network in different states.Based on the provided supplement content, it is not possible to determine which states have 4G. The content provides information on the download and upload speeds of different mobile networks in different locations across India.Based on the supplement content provided to me, the following states have 4G coverage:
+
+- Orissa
+- Kolkata
+- West Bengal
+- Delhi
+- Himachal Pradesh
+- Karnataka
+- Andhra Pradesh
+- Assam
+- UP West
+- Gujarat
+- Punjab
+- Maharashtra
+- Haryana
+- Madhya Pradesh
+- Tamil Nadu
+- Rajasthan
+- Kerala
+- UP EastBased on the given supplement content, JIO, IDEA, VODAFONE and AIRTEL have 4G in different states in India such as Himachal Pradesh, Maharashtra, Tamil Nadu, West Bengal, UP East, Haryana, Punjab, Gujarat, Andhra Pradesh, Karnataka and Madhya Pradesh. However, the exact list of states with 4G coverage cannot be determined from this data as the supplement content does not provide complete information.Based on the provided supplement content, it is not possible to determine which states have 4G as the data only includes information on network providers and their respective download and upload speeds in different locations.Based on the supplement content provided, the following states have 4G coverage:
+- Tamil Nadu
+- Kerala
+- Maharashtra
+- Delhi
+- Rajasthan
+- UP West
+- Assam
+- Gujarat
+- UP East
+- Karnataka
+- Punjab
+- Madhya Pradesh
+- BiharBased on the supplement content provided, it is not possible to determine which states have 4G. The content only mentions the location coordinates and network details (JIO and AIRTEL) with their respective download and upload speeds.Based on the supplement content provided, it is not possible to accurately determine which states have 4G coverage. The data includes information on the speed and location of 4G and 3G connections for various telecom providers in different states of India. However, it does not provide a comprehensive list of states with 4G coverage.Based on the supplement content provided, it is not possible to determine which states have 4G as the data only includes coordinates and network information without any specific state information.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The information provided includes latitude and longitude coordinates, network providers, and download and upload speeds, but does not specify which states are covered by these networks.Based on the supplement content provided to me, it is not possible to provide a comprehensive list of states with 4G. However, the supplement content provides information on the 4G network availability in several states across India, including Maharashtra, UP West, Haryana, UP East, North East, Kolkata, Rajasthan, Delhi, Kerala, Punjab, Gujarat, Andhra Pradesh, Madhya Pradesh, and Bihar among others.Based on the supplement content provided, it is not possible to determine which states have 4G. The content provides information about 4G and 3G networks in Haryana and Rajasthan, but it does not mention all the states in India where 4G is available.Based on the supplement content provided to me, it is not possible to determine which states have 4G. The data only provides information on the network coverage and performance of different mobile service providers in different regions of India.Based on the given supplement content, it is not possible to determine which states have 4G. The content contains data on various states and their network speeds for different mobile service providers, but it does not provide a comprehensive list of states with 4G.Based on the supplement content provided, it is not possible to determine which states have 4G. However, the supplement content provides data on 4G and 3G download and upload speeds in different cities across India, as well as the latitude and longitude coordinates of the locations where the data was collected.Based on the supplement content provided, it is not possible to determine which states have 4G as the data only provides information on network speeds (download and upload) and location coordinates.Based on the given supplement content, the states with 4G are:
+- Mumbai
+- UP West
+- Karnataka
+- Madhya Pradesh
+- Punjab
+- Kerala
+- Orissa
+- Andhra Pradesh
+- Rajasthan
+- Gujarat
+- Delhi
+- Haryana
+- UP East
+- Tamil Nadu
+- MaharashtraBased on the provided supplement content, it is not possible to determine which states have 4G coverage. The data only provides specific locations and their respective download/upload speeds for different networks (JIO, AIRTEL, VODAFONE, and IDEA) in different regions.Based on the supplement content provided, it is not possible to determine which states have 4G coverage. The data only provides information on the strength of 4G signals in various locations across India.Based on the provided data, it is not possible to determine which states have 4G as the data only provides information on the location, network provider, and download/upload speeds but not the state.Based on the supplement content provided, it is not possible to determine which states have 4G coverage. The data provided only includes information on the speed and quality of 4G and 3G connections in various locations across India.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The content only provides information on download and upload speeds for JIO and Airtel in specific regions and states.Based on the provided supplement content, it is not possible to determine the states that have 4G coverage. However, there are several locations where Airtel, Jio, and Idea have 4G coverage.Based on the supplement content provided, it is not possible to determine which states have 4G coverage. The information provided only includes data on network speed and location, but not on network coverage or availability.Based on the supplement content provided, it is not possible to determine which states have 4G coverage. The dataset only includes information on the network type, download and upload speeds, and location coordinates for specific areas in Haryana, Maharashtra, Tamil Nadu, Delhi, Madhya Pradesh, Kerala, Bihar, UP East, Gujarat, North East, UP West, Rajasthan, and Mumbai.Based on the provided supplement content, it is not possible to determine which states have 4G. The content only includes information on 4G coverage in specific locations within various states.Based on the given supplement content, it is not possible to determine which states have 4G coverage as the data provided is not categorized by state.Based on the supplement content provided, it is not possible to determine which states have 4G coverage as the data only includes information on network speeds and locations in specific cities and regions.Based on the supplement content provided, it is not possible to determine which states have 4G as the data includes information from multiple states.Based on the given supplement content, it is not possible to determine which states in India have 4G. The data only provides information on the speed and connectivity of different mobile network providers in various regions.Based on the given supplement content, it is not possible to determine which states in India have 4G coverage. The data provided consists of location coordinates and network information for various locations across different states, but it does not provide a comprehensive overview of the entire country's 4G coverage.Based on the supplement content provided, it is not possible to determine which states have 4G network as the location data is not labeled with state information.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The data includes various locations from multiple states, but it does not provide a comprehensive list of states with 4G coverage.Based on the given supplement content, it is not possible to determine which states have 4G coverage. The content provides information on 4G and 3G networks of various service providers in different states, but not a comprehensive list of states with 4G coverage.Based on the supplement content provided, it is not possible to determine which states in India have 4G connectivity. However, the supplement content provides information on 4G and 3G connectivity for various regions in India, along with the corresponding download and upload speeds for different mobile network providers.Based on the provided supplement content, it is not possible to determine which states have 4G. However, the content includes information about 4G network speeds and locations in Karnataka, Punjab, Gujarat, Assam, UP West, Kerala, Madhya Pradesh, Andhra Pradesh, Tamil Nadu, Maharashtra, Haryana, and Rajasthan.Based on the given supplement content, all states in India have 4G coverage from various service providers like JIO, Airtel, Vodafone, and Idea.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The data only includes information regarding the download and upload speeds of JIO, Vodafone, Airtel, and Idea in various regions across India.Based on the provided supplement content, we cannot determine which states have 4G coverage as the data contains information on various states across India but does not specify which states have 4G coverage.Based on the supplement content provided, it is not possible to determine which states have 4G coverage. The data only includes information on signal strength and speed for various locations across different states in India.Based on the given supplement content, it is not possible to determine which states have 4G as the data is provided for different states and there is no consolidated information available.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The data only includes information about network providers, signal strengths, and locations, but not the states where these locations are situated.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The data only includes information on the 4G coverage and performance of various telecom providers in different areas within India.Based on the given supplement content, the states with 4G networks are:
+
+1. Karnataka
+2. Tamil Nadu
+3. Rajasthan
+4. Haryana
+5. Kerala
+6. Andhra Pradesh
+7. Punjab
+8. UP West
+9. Madhya Pradesh
+10. Delhi
+11. Himachal Pradesh
+12. Bihar
+13. Gujarat
+14. KolkataBased on the given supplement content, the states with 4G coverage are Gujarat, West Bengal, Punjab, Andhra Pradesh, Madhya Pradesh, Kerala, UP West, Karnataka, Rajasthan, and UP East.Based on the provided supplement content, it is not possible to determine which states have 4G. The content includes data for multiple states, but it does not provide a comprehensive list of all states with 4G coverage.Based on the supplement content provided, it is not possible to determine which states have 4G networks. The content includes data on network speeds and types (3G, 4G) but does not specify the geographical locations of the networks.Based on the provided supplement content, it is not possible to determine which states have 4G. The data only includes information on network providers, their services, and their location coordinates.Based on the provided information, it is not possible to determine which states have 4G as the data only includes location coordinates and internet speed measurements.Based on the provided supplement content, the following states have 4G coverage:
+
+1. Tamil Nadu
+2. North East
+3. Delhi
+4. Uttar Pradesh (East and West)
+5. Kerala
+6. Andhra Pradesh
+7. Jammu & Kashmir
+8. Punjab
+9. Rajasthan
+10. Gujarat
+11. Mumbai
+12. Haryana
+13. West Bengal
+
+Note: The supplement content may not be a comprehensive list of all the regions with 4G coverage in the mentioned states.Based on the given supplement content, it is not possible to determine which states have 4G. However, the content provides information on 4G coverage and network performance in various areas across different states in India.Based on the supplement content provided to me, all states in India have 4G network coverage. However, the data provided is limited and may not be representative of the entire country.Based on the given supplement content, it is not possible to accurately determine which states have 4G. The data provided only includes speed test results for various locations and networks, but does not provide information on the coverage of 4G networks in different states.Based on the supplement content provided, it is not possible to accurately determine which states have 4G networks. The data only includes information on the speed and location of data downloads and uploads for various mobile networks, but not which states have 4G coverage.Based on the given supplement content, it is not possible to determine which states have 4G coverage. The data provides information on 4G and 3G download/upload speeds and locations in various cities across different states in India, but it does not state which states have 4G coverage or not.Based on the supplement content provided, it is not possible to determine which states have 4G coverage. However, it can be inferred that Jio and Idea provide 4G coverage in various states including Gujarat, Rajasthan, UP West, Haryana, Delhi, Karnataka, Tamil Nadu, Andhra Pradesh, Orissa, and UP East. Airtel and Vodafone also provide 4G coverage in some states such as Jammu & Kashmir, Maharashtra, West Bengal, and Mumbai.Based on the supplement content provided to me, it is not possible to determine which states have 4G. The content only contains information about the location, network provider, and data transfer rates (download/upload) for various areas in India.Based on the provided supplement content, it is not possible to determine which states have 4G. The data only includes the location, network provider, and speed of the internet connection in specific areas within certain states.Based on the supplement content provided, it is not possible to determine which states have 4G. However, it appears that Jio and Airtel are the primary providers of 4G services in various regions across India.Based on the provided supplement content, it is not possible to determine which states have 4G as the data only shows 3G and 4G speeds and signal strengths in various locations across India.From the provided supplement content, it is not possible to determine which states have 4G connectivity as the data only includes speed test results from different locations across India.Based on the given supplement content, it is not possible to determine which states have 4G. The data provided includes information on 3G and 4G networks in various locations across different states in India.Based on the provided data, the states that have 4G are:
+- Haryana
+- Rajasthan
+- Tamil Nadu
+- Gujarat
+- UP East
+- West Bengal
+- Andhra Pradesh
+- Orissa
+- Punjab
+- Madhya Pradesh
+- Bihar
+- ChennaiBased on the supplement content provided to me, I can see that states like Rajasthan, Tamil Nadu, Jammu & Kashmir, UP East, Maharashtra, Delhi, Kerala, Gujarat, Haryana, West Bengal, Madhya Pradesh, and Andhra Pradesh have 4G network coverage.Based on the supplement content provided, it is not possible to provide a definitive list of states with 4G coverage. The data provided only includes information about network performance in specific locations within certain states. It is best to check with individual network providers or use online coverage maps to determine 4G coverage in specific states.Based on the provided supplement content, it is not possible to determine which states have 4G coverage as the data includes measurements from multiple states across India.Based on the given supplement content, it is not possible to determine which states have 4G coverage. The content only provides information on the download and upload speeds of different mobile network providers in various locations.Based on the supplement content provided, it is not possible to determine which states have 4G coverage. The data only provides information on the speed and quality of 4G and 3G networks in various locations across India.Based on the given information, it is not possible to determine which states have 4G as the data provided is not organized by states and is incomplete.Based on the information provided, it is difficult to determine which states have 4G as the data only includes information on specific locations within various states.Based on the supplement content provided, we cannot determine which states have 4G as the data only includes information on network performance in various regions of India.Based on the provided data, the following states have 4G coverage:
+- UP West
+- Karnataka
+- Delhi
+- Gujarat
+- UP East
+- Maharashtra
+- Punjab
+- North EastBased on the provided supplement content, it is not possible to determine which states have 4G coverage. The data only includes information about the speed and connectivity of 4G and other networks in various locations, but not the overall coverage of 4G in any specific state.Based on the supplement content provided, it is not possible to determine which states have 4G coverage. The data provided includes speed tests for various locations across India by different telecom providers, but it does not provide an overall coverage map for 4G networks in different states.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The data only includes information on the download and upload speeds of various telecom providers in different regions of India.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The data only includes information on the speed and network of mobile data in various locations, but does not specify which states have 4G coverage.Based on the supplement content provided, the following states have 4G coverage: Karnataka, Andhra Pradesh, Punjab, Kerala, Rajasthan, UP West, Maharashtra, Chennai, Gujarat, Tamil Nadu, Bihar, and Orissa.Based on the provided supplement content, it is not possible to determine which states have 4G. The content only provides information on the speed and quality of 4G and 3G services in various locations across India, but does not provide a comprehensive list of locations with 4G coverage.Based on the provided supplement content, the states with 4G are Tamil Nadu, UP West, Kolkata, Andhra Pradesh, Orissa, Delhi, Karnataka, UP East, Haryana, West Bengal, Maharashtra, Punjab, Jammu & Kashmir, Gujarat, Kerala.Based on the supplement content provided, it is not possible to determine which states have 4G. However, some areas within Jammu & Kashmir, UP East, Gujarat, Kolkata, Delhi, Andhra Pradesh, Kerala, Madhya Pradesh, Maharashtra, Assam, and Haryana have been mentioned as having 4G services.Based on the given supplement content, it is not possible to determine which states have 4G coverage. The data only provides information on 4G/3G coverage in various locations across different states in India.Based on the provided supplement content, it is not possible to determine which states have 4G. The data contains information on 4G and 3G network speeds for various regions and cities in India but not the states.Based on the provided supplement content, it is not possible to determine which states have 4G. The content only includes information on various locations in different states where 4G services of JIO, Airtel, Vodafone, and Idea have been tested.Based on the given supplement content, it is not possible to determine which states have 4G coverage as the data provided only includes information on 4G download and upload speeds for different locations within various states in India.Based on the given supplement content, the states in India that have 4G are Kerala, Delhi, Gujarat, Maharashtra, Karnataka, Andhra Pradesh, UP West, Tamil Nadu, Punjab, and Himachal Pradesh.Based on the provided information, the following states have 4G coverage: Himachal Pradesh, Haryana, Tamil Nadu, Orissa, UP East, Madhya Pradesh, Punjab, Assam, UP West, Gujarat, Delhi, Andhra Pradesh, Karnataka, Maharashtra, and Kerala.Based on the supplement content provided to me, it is difficult to determine which states have 4G network coverage. However, there are several locations where JIO and IDEA have 4G network coverage, including Rajasthan, Kerala, Andhra Pradesh, and Haryana. Other network providers such as Airtel and Vodafone also have 4G coverage in some areas.Based on the supplement content provided, the states that have 4G are:
+
+- Madhya Pradesh
+- Gujarat
+- UP East
+- Punjab
+- West Bengal
+- Kerala
+- UP West
+- Bihar
+- Kolkata
+- RajasthanBased on the supplement content provided, it is not possible to determine which states have 4G network. The data provided contains information on network performance in various states and cities, but it does not specify which states have 4G network coverage.Based on the provided data, it is not possible to determine which states have 4G. The data only provides information on 4G and 3G network speeds and signal strengths for various locations across different states in India.Based on the supplement content provided to me, it is not possible to determine which states have 4G coverage. However, the supplement content does provide information on the 4G coverage of various telecom operators in different cities across India.Based on the given supplement content, it is not possible to provide a comprehensive list of states that have 4G. However, some of the states where 4G is available are Andhra Pradesh, Bihar, Gujarat, Haryana, Karnataka, Kerala, Maharashtra, Punjab, Rajasthan, UP East, UP West, and Jammu & Kashmir.Based on the supplement content provided, it is not possible to determine which states have 4G. The data only provides information on network strength and download/upload speeds in Jammu & Kashmir.Based on the provided data, it is not possible to determine which states have 4G. The data only includes the location coordinates and network information for different areas within the states of Jammu & Kashmir, Tamil Nadu, Karnataka, Himachal Pradesh, Madhya Pradesh, Haryana, UP East, Maharashtra, Delhi, Punjab, Andhra Pradesh, Orissa, Rajasthan.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The data provides information on the download and upload speeds of different telecom providers in different locations, but it does not specify the states where the measurements were taken.Based on the given data, it is not possible to determine which states have 4G coverage. The data only provides information about the speed and quality of 4G and 3G internet in various locations across different states in India.Based on the available data, it is not possible to determine which states have 4G coverage. The data provided only includes information on the location, network provider, and network speed for specific locations in various states. It does not provide comprehensive coverage information for entire states or regions.Based on the provided supplement content, it is not possible to accurately determine which states have 4G as the data only includes information about the speed and location of internet connections of various mobile network providers.Based on the supplement content provided, it is not possible to determine which states have 4G coverage. The data only includes information on the network providers, types of network (3G or 4G), and the upload and download speeds.Based on the provided supplement content, it is not possible to determine which states have 4G. However, it can be inferred that 4G is available in various regions across India, including Tamil Nadu, Rajasthan, Haryana, Maharashtra, Madhya Pradesh, Orissa, UP East, UP West, Assam, Gujarat, Jammu & Kashmir, West Bengal, Kerala, and Punjab.Based on the supplement content provided, the states with 4G network are:
+
+1. Tamil Nadu
+2. Andhra Pradesh
+3. West Bengal
+4. Haryana
+5. UP East
+6. Gujarat
+7. Madhya Pradesh
+8. UP West
+9. Assam
+10. Mumbai
+11. Jammu & Kashmir
+12. Delhi
+13. Chennai
+14. Orissa
+15. Andhra Pradesh
+16. Kerala
+17. Himachal PradeshBased on the provided supplement content, it is not possible to determine which states have 4G coverage. The data only provides information on various 4G networks' download and upload speeds, locations, and signal strengths in different parts of India.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The content only includes information about 4G and 3G download and upload speeds from various locations across India.Based on the supplement content provided, it is not possible to determine which states have 4G. The content only provides data regarding the speed and quality of 3G and 4G connections in various regions of India.Based on the supplement content provided, it is not possible to determine which states have 4G connectivity. The information provided only includes data on the speeds and locations of 4G and 3G networks of different telecom providers in various regions of India.Based on the given supplement content, it is not possible to determine which states have 4G coverage. The data provided only includes information about 4G, 3G, and upload/download speeds in various locations across different states.Based on the supplement content provided, it is not possible to determine which states have 4G as the data provided includes multiple states across India and has information about different network providers and their upload/download speeds.Based on the given supplement content, it is not possible to determine which states have 4G coverage. However, the content includes information about 4G coverage in various cities and regions across India, provided by different service providers like JIO, AIRTEL, and VODAFONE.Based on the given supplement content, it is not possible to determine which states have 4G coverage as the data only provides information on the speed and location of 4G networks of certain telecom providers in certain regions.Based on the provided data, it is not possible to determine which states have 4G as the location data is scattered across different states and some entries do not have a state mentioned.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The location data provided only shows the network coverage and speed in specific locations within various states. A more comprehensive data set would be required to identify which states have 4G coverage.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The data includes information on 4G download and upload speeds for various locations across different states in India, but it does not provide a comprehensive overview of the entire country's 4G coverage.Based on the provided supplement content, it is not possible to determine which states have 4G coverage since the data only includes information about network performance in different locations.Based on the given content, it is not possible to determine which states have 4G. However, the content provides information about the 3G and 4G connectivity of various telecom providers at different locations in India.Based on the provided supplement content, it is not possible to determine which states have 4G as the data includes information from various states in India.Based on the given supplement content, it is not possible to determine which states have 4G coverage. However, it is evident that 4G coverage is available in multiple states across India.Based on the supplement content provided, it is not possible to determine which states have 4G as the data includes information from various states but does not provide a comprehensive list of states with 4G.Based on the provided supplement content, it is not possible to determine which states have 4G as the data only includes information on the network operator, location, and download/upload speeds.Based on the supplement content provided to me, it is not possible to determine which states have 4G. The data only provides information on the speed and quality of 4G and 3G networks in various locations.Based on the given supplement content, it is not possible to determine which states have 4G coverage as the data provided is not exhaustive and covers only certain parts of the country.Based on the provided supplement content, it is not possible to determine which states have 4G. The content only lists 4G network information for various locations within different states.Based on the given supplement content, it is not possible to determine which states have 4G. The data provided only includes information on the speed and quality of mobile internet connections from various mobile service providers in different parts of India.Based on the supplement content provided, it is not possible to determine which states have 4G. The data provided includes information about 4G download and upload speeds in various regions of India, but it does not specify which states these regions are located in.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The content only contains information about the speed and quality of internet connection from various telecom operators in certain regions.Based on the given supplement content, it is difficult to provide a comprehensive list of states that have 4G. However, the following states have been mentioned in the data: UP East, Madhya Pradesh, Bihar, Orissa, Delhi, Punjab, Haryana, Assam, Maharashtra, West Bengal, Himachal Pradesh, Rajasthan, and Andhra Pradesh. Please note that this data may not be complete and may not represent the current 4G coverage in these states.Based on the provided supplement content, it is not possible to determine which states have 4G coverage. The data only includes information about 4G download and upload speeds in different locations across India.Based on the supplement content provided, it is not possible to determine which states have 4G coverage. The data provided only includes information about the speed and location of 4G and 3G connections for various telecom providers in different regions of India.
+PS C:\Users\azureuser\Desktop\OpenAIRepo>
+
+
+
+
+
+
+
